@@ -4,29 +4,6 @@
 > **Autori:** Toni Vuković, Teo Putarek, Marko Šimić
 > **Projekt:** Dizajn i razvoj trokrilne autorotacijske UAV platforme
 
-![Hero](docs/images/hero.jpg)
-
-<p align="center">
-  <a href="#-značajke">Značajke</a> •
-  <a href="#-brzi-start">Brzi start</a> •
-  <a href="#-struktura-repozitorija">Struktura</a> •
-  <a href="#-hardware">Hardware</a> •
-  <a href="#-3d-modeli">3D modeli</a> •
-  <a href="#-firmware-arduino">Firmware</a> •
-  <a href="#-python-aplikacije">Python</a> •
-  <a href="#-telemetrija-i-format-podataka">Podaci</a> •
-  <a href="#-kalibracija-imu">Kalibracija</a> •
-  <a href="#-testiranja-i-rezultati">Rezultati</a> •
-  <a href="#-doprinosi">Doprinosi</a>
-</p>
-
-<p align="center">
-  <img alt="GitHub" src="https://img.shields.io/badge/UAV-authorotacija-111" />
-  <img alt="Arduino" src="https://img.shields.io/badge/Arduino-PWM_9/10/11-blue" />
-  <img alt="Python" src="https://img.shields.io/badge/Python-3.10+-yellow" />
-  <img alt="License" src="https://img.shields.io/badge/License-MIT-green" />
-</p>
-
 ---
 
 ## ✨ Sažetak
