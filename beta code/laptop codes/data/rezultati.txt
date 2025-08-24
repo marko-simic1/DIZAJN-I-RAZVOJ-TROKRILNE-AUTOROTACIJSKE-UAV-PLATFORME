@@ -1,0 +1,10 @@
+rec5_13 - 40% motora
+rec5_14 - 60% motora
+rec 15 - 20%
+rec 16 - 90%
+rec 17 - 50%
+rec 18 - 90%
+rec 19 - 22%
+rec 20 - 40%
+
+90% motora - otprilike 5 okretaja u sekundi
